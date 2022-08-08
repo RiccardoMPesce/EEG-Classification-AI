@@ -8,3 +8,4 @@ This method aims to learn the brain manifold that is obtained by training a Clas
 * Paper (on [Arxiv](https://arxiv.org/abs/1810.10974))
 * Code (on [Github](https://github.com/perceivelab/eeg_visual_classification))
 * Dataset (on [Nature](https://www.nature.com/articles/sdata2018308/tables/6))
+* Second reference paper (on [Arxiv](https://arxiv.org/abs/1609.00344))
